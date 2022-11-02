@@ -14,6 +14,9 @@ For instance to create the output file for sample_1 input file use following com
 g++ main.cpp  <br />
 ./a.out test_1  <br />
 
+If the input file is from debugging(input_1,input_2..) folder, the output files will be named as output_1,output_2... <br />
+If the input file is from submission(test_1) folder, the output files will be named as out_1 <br />
+
 For your convenience, apart form submitting in zip I am also attaching replit link so that you can directly run from this environment. <br />
 
 Question 1: https://replit.com/join/javzlvhpqm-rshah2000 <br />
